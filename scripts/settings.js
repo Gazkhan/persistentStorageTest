@@ -1,4 +1,4 @@
-export const MODULE_NAME = "jb2a_patreon";
+export const MODULE_NAME = "persistentStorageTest";
 export default async function jb2aSettings() {
 
  

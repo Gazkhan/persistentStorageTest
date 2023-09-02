@@ -29,6 +29,7 @@
   "esmodules": [
     "./scripts/jb2a.js"
   ],
+  "persistentStorage": true,
   "styles": [],
   "languages": [],
   "packs": [
