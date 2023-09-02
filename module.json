@@ -19,7 +19,7 @@
   "url": "https://www.patreon.com/JB2A",
   "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "flags": {},
-  "version": "0.1.1",
+  "version": "0.1.2",
   "minimumCoreVersion": "11",
   "compatibleCoreVersion": "11",
   "compatibility": {
@@ -54,7 +54,7 @@
   "relationships": {},
   "socket": false,
   "manifest": "https://github.com/Gazkhan/persistentStorageTest/releases/latest/download/module.json",
-  "download": "https://github.com/Gazkhan/persistentStorageTest/releases/download/0.1.1/persistentStorageTest-0.1.1.zip",
+  "download": "https://github.com/Gazkhan/persistentStorageTest/releases/download/0.1.2/persistentStorageTest-0.1.2.zip",
   "protected": false,
   "coreTranslation": false,
   "library": false
